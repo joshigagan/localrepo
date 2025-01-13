@@ -1,0 +1,19 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex de37bf4..7bd865c 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,4 +1 @@[m
+ # this is my local repo[m
+[31m-# this is my new feature[m
+[31m-# this is new line [m
+[31m-# this is one more line[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1154937..156cfcb 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p> this is a new repo</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p> this is a new repo</p>[m
+[32m+[m[32m<p> gagan</p>[m
+\ No newline at end of file[m
